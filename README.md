@@ -1,4 +1,3 @@
-Aqui está um exemplo de como poderia ser o `README.md` para o seu código:
 
 ```markdown
 # Processamento de Arquivos TXT com PySpark
@@ -107,5 +106,3 @@ O script realiza as seguintes operações:
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
-
-Adapte conforme necessário, especialmente as partes onde menciona o caminho dos arquivos e o repositório do GitHub.
